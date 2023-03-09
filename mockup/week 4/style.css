@@ -1,6 +1,8 @@
 body{
 	background-color: lightgreen;
-	text-align: center
+	text-align: center;
+	font-family: fantasy;
+	font-size: 15;
 }
 h1{
 	color: brown;
@@ -59,7 +61,7 @@ p{
 	width: 200px;
 	height: 150px;
 }
-holidays{
+#holidays{
 	width: 200px;
 	height: 200px:
 }
