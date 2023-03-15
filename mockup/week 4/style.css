@@ -6,52 +6,38 @@ body{
 }
 h1{
 	color: brown;
-	margin-bottom: 100px;
-	margin-left: 80px;
-	margin-right: 150px;
-	margin-top: 100px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+	margin-right: 15px;
+	margin-top: 10px;
 	font-family: sans-serif;
 }
 h2{
 	color: brown;
-	margin-bottom: 100px;
-	margin-left: 80px;
-	margin-right: 150px;
-	margin-top:100px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+	margin-right: 15px;
+	margin-top:10px;
 	font-family: sans-serif;
 }
 h3{
 	color:brown;
-	margin-bottom: 100px;
-	margin-left: 80px;
-	margin-right: 150px;
-	margin-top:100px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+	margin-right: 15px;
+	margin-top:10px;
 	font-family: sans-serif;
 }
-h4{
-	color: brown;
-	margin-bottom: 100px;
-	margin-left: 80px;
-	margin-right: 150px;
-	margin-top:100px;
-	font-family: sans-serif;
-}
-h5{
-	color: brown;
-	margin-bottom: 100px;
-	margin-left: 80px;
-	margin-right: 150px;
-	margin-top:100px;
-	font-family: sans-serif;
-}
+
 
 p{
 	color: navy;
 	font-size: 18px;
+	font-family: inherit;
 }
 #Cacao{
-	width: 100px;
-	height: 100px;
+	width: 150px;
+	height: 150px;
 }
 #chocopic{
 	width: 150px;
@@ -64,4 +50,13 @@ p{
 #holidays{
 	width: 200px;
 	height: 200px:
+}
+
+#decoration.left{
+	
+		align-content: flex-end;
+		margin-left: auto;
+		height: 2000px;
+	border-width: thin;
+	
 }
