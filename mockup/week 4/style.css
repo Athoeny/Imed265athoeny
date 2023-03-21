@@ -47,11 +47,17 @@ p{
 	float: right;
 }
 
-#decoration.left{
+#decoration{
 	
+	height: 5000;
+	width: 20;
 	float: left;
-	border-width: thin;
-	height: 1300px;
-	width: 400px;
 	
+}
+#decoration2{
+	
+	height: 5000;
+	width: 20;
+	float: right;
+
 }
