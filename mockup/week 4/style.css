@@ -6,17 +6,17 @@ body{
 }
 h1{
 	color: brown;
-	text-align: left;
+	text-align: center;
 	font-family: sans-serif;
 }
 h2{
 	color: brown;
-	text-align: left;
+	text-align: center;
 	font-family: sans-serif;
 }
 h3{
-	color:brown;
-	text-align: left;
+	color: brown;
+	text-align: center;
 	font-family: sans-serif;
 }
 
@@ -29,12 +29,10 @@ p{
 #Cacao{
 	width: 150px;
 	height: 150px;
-	float: right;
 }
 #chocopic{
 	width: 150px;
 	height: 150px;
-	float: right;
 }
 #history{
 	width: 200px;
@@ -44,20 +42,36 @@ p{
 #holidays{
 	width: 200px;
 	height: 200px;
-	float: right;
 }
-
+#egg{
+	width: 200px;
+	height:  200px;
+}
+#haunting{
+	width: 200px;
+	height: 200px;
+}
+#gift{
+	width; 200px;
+	height: 200Px;
+}
+#bestcakerecipe{
+	width: 200px;
+	height: 200px;
+}
 #decoration{
 	
-	height: 5000;
-	width: 20;
-	float: left;
+	height: 1200px;
+	width: 100px;
 	
+}
+#pie{
+	height: 900;
+	width: 200px;
 }
 #decoration2{
 	
-	height: 5000;
-	width: 20;
-	float: right;
+	height: 1200px;
+	width: 100px;
 
 }
