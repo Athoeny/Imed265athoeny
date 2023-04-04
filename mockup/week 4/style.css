@@ -18,8 +18,13 @@ h3{
 	color: brown;
 	text-align: center;
 	font-family: sans-serif;
+	font-size: 50px;
+	margin-top: 50px;
 }
-
+footer{
+	font-size: 60px;
+	color: darkgreen;
+}
 
 p{
 	color: navy;
@@ -62,7 +67,8 @@ p{
 #decoration{
 	
 	height: 1200px;
-	width: 100px;
+	width: 200px;
+	
 	
 }
 #pie{
@@ -72,6 +78,6 @@ p{
 #decoration2{
 	
 	height: 1200px;
-	width: 100px;
+	width: 200px;
 
 }
